@@ -15,7 +15,7 @@ Pages generated using the "Print" button can be excluded.
 
 ## Content
 
-"Print" or school document PDF
+Plugin Configuration
 
 - Add custom header.
 - Add custom footer.
