@@ -1,3 +1,8 @@
+GitLab
+------
+
+RosarioSIS code is now hosted at [**GitLab**](https://gitlab.com/francoisjacquet/PDF_Header_Footer)!
+
 # PDF Header Footer Plugin
 
 ![screenshot](https://raw.githubusercontent.com/francoisjacquet/PDF_Header_Footer/master/screenshot.png)
